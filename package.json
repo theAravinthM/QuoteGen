@@ -1,0 +1,16 @@
+{
+  "name": "quotegen",
+  "version": "1.0.0",
+  "description": "QuoteGen - \"Your daily dose of quotes to kick start your day\"",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "Aravinth",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
