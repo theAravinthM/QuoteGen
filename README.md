@@ -6,12 +6,15 @@
 2. After directing into this directory, fire up a terminal/command prompt and run **_npm init_**
 3. Now all the necessary packages mentioned in the package.json file is installed
 4. Run this **_npm run start_** command
-![runServer](output/01_RunServer.png)
+![runServer](output/01_RunServer.png)<br>
 5. Open up your browser and navigate to _localhost:5000_ and see the magic.
-[](/output/)
+![siteRunning](output/02_quoteGenRunning.png)<br>
 6. You can now play in this site
 7. Share the quote that you linked by clicking this share to twitter icon
+![shareToTwitterIcon](output/01_RunServer.png)<br>
 
+![redirectingToTwitter](output/04_redirectingToTwitter.png)<br>
 8. Generate a new quote by using a **New Quote** icon
+![generateNewQuoteIcon](output/05_generateNewQuote.png)<br>
 
-9. 
+![anotherQuote](output/06_serverRunningAnotherQuote.png)<br>
