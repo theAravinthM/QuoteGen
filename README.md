@@ -6,7 +6,7 @@
 2. After directing into this directory, fire up a terminal/command prompt and run **_npm init_**
 3. Now all the necessary packages mentioned in the package.json file is installed
 4. Run this **_npm run start_** command
-[](/output/01 run server.png)
+![runServer](/output/01 run server.png)
 5. Open up your browser and navigate to _localhost:5000_ and see the magic.
 [](/output/)
 6. You can now play in this site
